@@ -14,6 +14,8 @@ pnpm install
 pnpm dev
 ```
 
+Windows에서는 `start-dev.cmd`를 더블클릭해도 됩니다. 꺼져 있는 서버만 켜고 게임 화면을 엽니다.
+
 - 게임 화면: http://localhost:5173
 - 게임 서버: ws://localhost:2567
 
